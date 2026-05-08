@@ -21,7 +21,7 @@ O **PlayKeep** é uma solução moderna para gestão de locação de jogos, dese
 1. **Clone o projeto:**
 
    ```bash
-   git clone [https://github.com](https://github.com/LimaDevCod3r/playkeep-api.git)
+   git clone https://github.com/LimaDevCod3r/playkeep-api.git
    ```
 
 2. **Acesse o diretório:**
